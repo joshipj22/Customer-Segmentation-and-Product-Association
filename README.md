@@ -32,3 +32,5 @@ SQL (for preprocessing or integration)
 
 ### Dataset Source:
 - E-Commerce transactions dataset from the UK
+
+![Project Preview](https://github.com/joshipj22/Customer-Segmentation-and-Product-Association/blob/main/RFM.png?raw=true)
